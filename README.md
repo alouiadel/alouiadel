@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./duck.gif" autoplay loop/>
+  <img src="./duck.png" autoplay loop/>
 </div>
 
 ###
