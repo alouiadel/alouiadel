@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on AI Apps<br>- 📚 I'm currently learning DJANGO , React<br>- 👯 I’m looking to collaborate on Open-source projects<br>- ⚡ Fun fact -> I am a Grizzly , not a duck</p>
+<p align="left">- 🔭 I’m currently working on AI Apps<br>- 📚 I'm currently learning DJANGO , React<br>- 👯 I’m looking to collaborate on Open-source projects<br></p>
 
 ###
 
