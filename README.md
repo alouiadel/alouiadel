@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">🚀 Software Engineer || Open Source Enthusiast</h3>
+<h3 align="center">🚀 Software / AI Engineer || Open Source Enthusiast</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on AI Apps<br>- 📚 I'm currently learning DJANGO , React<br>- 👯 I’m looking to collaborate on Open-source projects<br></p>
+<p align="left">- 🔭 I’m currently working on AI Apps<br>- 👯 I’m looking to collaborate on Open-source projects<br></p>
 
 ###
 
@@ -51,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
