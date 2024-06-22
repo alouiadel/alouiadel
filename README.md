@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">🚀 Software / AI Engineer || Open Source Enthusiast</h3>
+<h3 align="center">🚀 Junior Software / AI Engineer || Open Source Enthusiast</h3>
 
 ###
 
