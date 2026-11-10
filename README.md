@@ -24,4 +24,4 @@ Snake trained with a deep Q-network in Pygame and PyTorch.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/alouiadel/) · [X](https://x.com/gmadel2222) · [Hugging Face](https://huggingface.co/gmadel2222)
+[Blog](https://gmadel2222.bearblog.dev) · [LinkedIn](https://www.linkedin.com/in/alouiadel/) · [X](https://x.com/gmadel2222) · [Hugging Face](https://huggingface.co/gmadel2222)
