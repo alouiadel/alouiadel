@@ -1,6 +1,6 @@
 # Adel Aloui
 
-Backend developer in Algeria. I build local-first tools: macOS utilities in Swift, RAG systems and small ML experiments in Python.
+AI and software engineer in Algeria. I build local-first tools: macOS utilities in Swift, RAG systems and small ML experiments in Python.
 
 ### Projects
 
